@@ -1,0 +1,13 @@
+ai-resume-analyzer/
+├── app/
+│   ├── analyzer.py
+│   ├── resume_parser.py
+│   └── utils.py
+├── frontend/
+│   └── streamlit_app.py
+├── sample_data/
+│   ├── resume.pdf
+│   └── job_description.txt
+├── requirements.txt
+├── README.md
+└── .gitignore
